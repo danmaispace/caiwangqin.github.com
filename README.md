@@ -1,4 +1,10 @@
-<<<<<<< HEAD
+
+# caiwangqin.github.com
+
+Another geek blog from: http://blog.caiwangqin.com
+Community: http://chinaonrails.com
+
+
 # Jekyll-Bootstrap
 
 The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
@@ -41,10 +47,3 @@ The master and gh-pages branch do not share the same ancestry. Please treat them
 ## License
 
 [Creative Commons](http://creativecommons.org/licenses/by-nc-sa/3.0/)
-=======
-caiwangqin.github.com
-=====================
-
-blog: http://www.caiwangqin.com
-Community: http://www.p1.cn
->>>>>>> 8a44ff8e2775eca5ff543b2e96ca6887b324a1f7
