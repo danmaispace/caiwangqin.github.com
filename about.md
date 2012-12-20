@@ -11,7 +11,7 @@ description: "Focus on Web2.0, Business, Architecture, Agile, Technic and beyond
 
 <http://cai.wealink.com>
 
-[Interview With Jesse Cai](http://www.locomotivation.com/blog/2008/08/07/interview-with-jesse-cai.html) ([中文翻译](http://www.caiwangqin.com/2008/08/interview-with-jesse-cai.html))
+[Profile](http://www.google.com/profiles/jesse.cai) ([Interview With Jesse Cai](http://www.caiwangqin.com/2008/08/interview-with-jesse-cai.html))
 
 Community
 
