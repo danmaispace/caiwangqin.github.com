@@ -8,7 +8,7 @@ tags: [hello world]
 {% include JB/setup %}
 
 {% highlight ruby %}
-p 'hello word'
+p 'hello world'
 {% endhighlight %}
 
 {% highlight ruby linenos %}
