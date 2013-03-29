@@ -81,7 +81,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : caiwangqin
+      short_name : jessecai
     livefyre :
       site_id : 123
     intensedebate :
